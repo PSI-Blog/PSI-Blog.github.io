@@ -50,7 +50,8 @@ googleAdsense = "7485191414403669"
 
 # Word counter and read time indicator in post metadata
 showWordCounter = true
-showReadTime = false
+showReadTime = true
+
 
 # License in the footer
 showLicenseInFooter = false
