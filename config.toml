@@ -1,5 +1,5 @@
-baseURL = "https://valeriooooh.github.io/"
-title = "Valério's Blog"
+baseURL = "https://psi-blog.github.io/"
+title = "PSI Blog"
 
 theme = "fuji"
 hasCJKLanguage = false
@@ -79,7 +79,7 @@ licenseLink = "https://mit-license.org/"
 
 # Comments
 # utterances, see: https://utteranc.es/
-utterancesRepo = "Valeriooooh/Valeriooooh.github.io"
+utterancesRepo = "PSI-Blog/PSI-Blog.github.io"
 utterancesIssueTerm = "title"
 
 # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
@@ -139,7 +139,7 @@ weight = 5
 
 [[menu.link]]
 name = "GitHub"
-url = "https://github.com/Valeriooooh"
+url = "https://github.com/PSI-Blog"
 weight = 1
 [[menu.link]]
 name = "Reddit"
