@@ -7,7 +7,6 @@ author: "Diogo Valério"
 math: true
 ---
 
-<!-- # Emacs Multiple dictionaries -->
 
 Emacs is really a nice tool to work with if you are a developer or even a writer.
 It's modes are incredibly versatile and never cease to amaze me.
