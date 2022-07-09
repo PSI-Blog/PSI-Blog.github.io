@@ -31,9 +31,9 @@ home = ["HTML", "RSS", "SearchIndex"]
 post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-# author = "Diogo Valério"                # You can also set author in post front matter individually
-# subTitle = "C. S. Student"
-defaultTheme = "auto"              # default theme when first visit (auto|dark|light)
+author = "PSI-Blog"                # You can also set author in post front matter individually
+subTitle = "Programming, Linux, Gaming, ..."
+defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
 # sourceURL = ""
