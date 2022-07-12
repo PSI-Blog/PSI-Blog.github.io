@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fix on PSI Blog</title><link>https://psi-blog.github.io/tags/fix/</link><description>Recent content in Fix on PSI Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 12 Jul 2022 02:27:11 +0100</lastBuildDate><atom:link href="https://psi-blog.github.io/tags/fix/index.xml" rel="self" type="application/rss+xml"/><item><title>X Could not find Module `Prelude` fix</title><link>https://psi-blog.github.io/post/prelude_ghc_fix/</link><pubDate>Tue, 12 Jul 2022 02:27:11 +0100</pubDate><guid>https://psi-blog.github.io/post/prelude_ghc_fix/</guid><description>Today I was experimenting with Haskell and this error struck me:
+X Could not find Module Prelude
+There are files missing in the base-x-x-x package,
+This has an easy fix:
+Install the ghc-static package
+sudo pacman -S ghc-static Then all should compile easily.</description></item></channel></rss>
