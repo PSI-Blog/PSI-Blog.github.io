@@ -171,8 +171,6 @@ What's a SAN? Well a SAN stands for Standard Algebraic Notation. It's basically 
 
 The **chessBoardController** also has a function that always listens to game changes, which we used, in the code, to update the `sanList` list variable, every time a change is detected.
 
-So, in the end, you have something looking like this:
-
 The _flutter_chess_board_ package allows you to do many others things. If you want you can add a timer, a back e forth button, a pause button, and many more things to make it look like Chess.com or lichess.
 
 I hope you like this article, see you next time!
