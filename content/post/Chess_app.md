@@ -1,6 +1,6 @@
 ---
 title: "How to create a chess app in flutter"
-date: 2022-02-02
+date: 2023-02-02
 draft: false
 tags: ["Flutter", "App", "Chess", "Programming"]
 author: "Misael Armando"
